@@ -1,4 +1,4 @@
-# og-server
+# go-server
 ## Пакет: main
 # server
 --
